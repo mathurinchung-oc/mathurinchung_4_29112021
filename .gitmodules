@@ -1,0 +1,3 @@
+[submodule "la_chouette_agence"]
+	path = la_chouette_agence
+	url = git@github.com:mathurinchung/la_chouette_agence.git
